@@ -1,0 +1,40 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+th{
+    background:#0f2a41;
+    color: #ffffff;
+    padding: 5px;
+    width: 200px;
+}
+
+td{
+    background: #0f2a41bd;
+    color:#ffffff;
+}
+
+input{
+    width: 300px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+button{
+    color:#ffffff;
+    width: 90px;
+    height: 50px;
+    background-color: #186600;
+    margin: 5px;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+}
+
+.field{
+    text-align: center;
+}
